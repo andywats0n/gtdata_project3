@@ -6,7 +6,7 @@ import pandas as pd
 
 conn = f'mongodb+srv://{USER}:{PASSWORD}@weatherviz-andy-5dubo.mongodb.net/gtds_p3?retryWrites=true'
 client = pymongo.MongoClient(conn)
-db = client.weatherviz
+db = client.gtds_p3
 app = Flask(__name__)
 
 @app.route('/', methods=['GET'])
