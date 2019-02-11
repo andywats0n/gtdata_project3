@@ -1,14 +1,4 @@
 0,1
-0.2408091103055874,vo_relationship_well-known/casual_acquaintances
-0.2086963673223417,vo_relationship_intimates
-0.08437740280195458,vo_relationship_stranger
-0.0655544891092524,type_crime_rape/sexual_assault
-0.058604602954009405,type_crime_simple_assault
-0.05433022127650819,sex_male
-0.0509226905688078,sex_female
-0.049996806894550355,vo_relationship_other_relatives
-0.04829565178835072,type_crime_personal_theft
-0.04314552367575237,type_crime_aggravated_assault
-0.03757379773108057,type_crime_robbery
-0.03050950965532361,vo_relationship_do_not_know_relationship
-0.027183825916480976,vo_relationship_do_not_know_number_of_offenders
+0.6703132724631038,vo_relationship_num
+0.22806144000052198,type_crime_num
+0.10162528753637413,sex_num
